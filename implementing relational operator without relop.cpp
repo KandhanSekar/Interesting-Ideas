@@ -1,6 +1,4 @@
-// ConsoleApplication6.cpp : Defines the entry point for the console application.
-//
-
+//Tried implementing greater than operator using math logic
 #include "stdafx.h"
 #include<iostream>
 using namespace std;
